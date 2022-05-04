@@ -36,7 +36,7 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
  
 
-2. Clone este repositório em seu computador local macOS ou use uma ferramenta de interface gráfica do usuário (GUI), como o [git-hub-desktop], para fazer isso. 
+2. Clone este repositório em seu computador local macOS ou use uma ferramenta de interface gráfica do usuário (GUI), como o [Git Hub Desktop], para fazer isso. 
 
 
 
@@ -58,7 +58,7 @@ Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg 
 
-[git-hub-desktop]: https://desktop.github.com/ 
+[Git Hub Desktop]: https://desktop.github.com/ 
 
  
 
