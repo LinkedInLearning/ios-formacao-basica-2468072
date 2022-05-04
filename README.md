@@ -12,7 +12,7 @@ Confira o arquivo Readme na ramificação principal para obter instruções e in
 
  
 
-DESCRIÇÃO DO CURSO 
+Neste curso você vai aprender a criar o seu próprio aplicativo para o iOS, o sistema operacional dos aparelhos da Apple como o iPhone, Apple Watch, Apple TV e iPod Touch. Você vai entender como montar a interface do usuário e como interagir com ela com os elementos padrão do iOS. Vamos criar um projeto do começo ao fim, passo-a-passo, explicando cada elemento que adicionamos na tela como os objetos Text, Toggle, Slider, TextField, List e muito mais. Você não necessariamente precisa saber programar para acompanhar esse curso porém ajudaria muito já ter noções básicas do que é uma variável, como funcionam as condicionais, e como funciona o ciclo de vida de um aplicativo. Vamos lá?
 
  
 
@@ -24,7 +24,7 @@ Este repositório contém ramificações, ou branches, para cada um dos vídeos 
 
 ## Ramificações 
 
-As ramificações são estruturadas para corresponder aos vídeos do curso. A convenção de nomenclatura é Capítulo#_Vídeo#. Por exemplo, a ramificação `02_03` corresponde ao terceiro vídeo do segundo capítulo. Algumas ramificações terão um status inicial e final, indicado com um i (início) e um f (fim). Portanto, a ramificação 02_03_i corresponde ao código de início do vídeo e a ramificação 02_03_f corresponde ao código de fim do vídeo. Por outro lado, a ramificação mestre corresponde ao código de conclusão do curso. 
+As ramificações são estruturadas para corresponder aos vídeos do curso. A convenção de nomenclatura é Capítulo#_Vídeo#. Por exemplo, a ramificação `02_03` corresponde ao terceiro vídeo do segundo capítulo. Como este curso contém um projeto contínuo e alguns projetos que começamos do zero, não temos os estados iniciais e finais de cada video pois o estado inicial do código de um vídeo, é o mesmo que o código final do vídeo anterior, ou no caso do projetos que começamos e terminamos no mesmo vídeo, não existe um estado inicial. 
 
  
 
@@ -32,15 +32,13 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 1. Para usar esses arquivos de exercícios, você precisa baixar o seguinte programa: 
 
-- [software] 
+- Xcode
 
  
 
-2. Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso. 
+2. Clone este repositório em seu computador local macOS ou use uma ferramenta de interface gráfica do usuário (GUI), como o [GitHub Desktop]: https://desktop.github.com/, para fazer isso. 
 
-3. [Instruções específicas do curso]. 
 
- 
 
 ### Instrutor(a) 
 
