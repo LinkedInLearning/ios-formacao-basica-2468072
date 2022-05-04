@@ -1,6 +1,6 @@
-# Título final do curso 
+# Desenvolvimento de Aplicativos iOS: Formação Básica 
 
-Este é o repositório do curso `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
+Este é o repositório do curso `[Desenvolvimento de Aplicativos iOS: Formação Básica]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
 
  
 
@@ -46,11 +46,11 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
  
 
-**Nome do(a) instrutor(a)** 
+**Lucas Longo** 
 
  
 
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/). 
+Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lucas-longo). 
 
  
 
