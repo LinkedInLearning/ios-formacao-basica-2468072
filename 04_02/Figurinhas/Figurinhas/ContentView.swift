@@ -1,0 +1,32 @@
+//
+//  ContentView.swift
+//  Figurinhas
+//
+//  Created by Lucas Longo on 3/3/22.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    
+    
+    
+    var body: some View {
+        TabView {
+            FiguraDetalheView()
+                .tabItem {
+                    Label("Figuras", systemImage: "face.smiling")
+                }
+            FiguraDetalheView()
+                .tabItem {
+                    Label("Minha Coleção", systemImage: "face.dashed")
+                }
+        }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
