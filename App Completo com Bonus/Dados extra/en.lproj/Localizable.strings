@@ -1,0 +1,21 @@
+/* 
+  Traducoes.strings
+  Figuras
+
+  Created by Lucas Longo on 3/1/22.
+  
+*/
+"figuras" = "Characters";
+"minha-colecao" = "My Collection";
+"desenhos" = "Drawings";
+"vidas" = "Lives";
+"vidas %lld" = "Lives: %lld";
+"potencia" = "Power";
+"potencia %lf" = "Power: %.0lf%%";
+"na-sua-colecao %lld" = "In your collection: %lld";
+"addicionar-a-colecao" = "Add to collection";
+"nao-tem-figuras" = "You have no characters in your collection";
+"anotacoes" = "Notes";
+"voce-tem-figuras %lld" = "You have %lld of these!";
+"quer-remover" = "Remove from collection";
+"cancelar" = "Cancel";

@@ -1,0 +1,21 @@
+/* 
+  Traducoes.strings
+  Monstros
+
+  Created by Lucas Longo on 3/1/22.
+  
+*/
+"figuras" = "Figuras";
+"minha-colecao" = "Minha Coleção";
+"desenhos" = "Desenhos";
+"vidas" = "Vidas";
+"vidas %lld" = "Vidas: %lld";
+"potencia" = "Potência";
+"potencia %lf" = "Potência: %.0lf%%";
+"na-sua-colecao %lld" = "Na sua coleção: %lld";
+"addicionar-a-colecao" = "Adicionar à coleção";
+"nao-tem-figuras" = "Você não tem figuras na sua coleção";
+"anotacoes" = "Anotações";
+"voce-tem-figuras %lld" = "Você tem %lld desses!";
+"quer-remover" = "Remover da coleção";
+"cancelar" = "Cancelar";
