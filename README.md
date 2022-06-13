@@ -54,7 +54,7 @@ Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs) 
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js 
+[lil-course-url]: https://www.linkedin.com/learning/desenvolvimento-de-aplicativos-ios-formacao-basica/crie-um-aplicativo-em-uma-tarde 
 
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg 
 
