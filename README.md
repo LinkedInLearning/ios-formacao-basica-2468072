@@ -2,15 +2,9 @@
 
 Este é o repositório do curso `[Desenvolvimento de Aplicativos iOS: Formação Básica]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
 
- 
-
-![Título completo do curso][lil-thumbnail-url]  
-
- 
+![image](https://user-images.githubusercontent.com/71371373/173542764-16e52754-3d64-48ef-beb0-321d579e06aa.png) 
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
-
- 
 
 Neste curso você vai aprender a criar o seu próprio aplicativo para o iOS, o sistema operacional dos aparelhos da Apple como o iPhone, Apple Watch, Apple TV e iPod Touch. Você vai entender como montar a interface do usuário e como interagir com ela com os elementos padrão do iOS. Vamos criar um projeto do começo ao fim, passo-a-passo, explicando cada elemento que adicionamos na tela como os objetos Text, Toggle, Slider, TextField, List e muito mais. Você não necessariamente precisa saber programar para acompanhar esse curso porém ajudaria muito já ter noções básicas do que é uma variável, como funcionam as condicionais, e como funciona o ciclo de vida de um aplicativo. Vamos lá?
 
